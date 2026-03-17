@@ -57,19 +57,19 @@
 
 
 ## Иллюстрация принципа работы
-<img width="268" height="126" alt="image" src="https://github.com/user-attachments/assets/01693e7b-2fd6-4da9-b3c8-457d606ded61" /><br>
+<img width="260" height="116" alt="image" src="https://github.com/user-attachments/assets/b5dce9d4-1817-4db3-8103-51fabb5460cc" /><br>
 **Главное меню чат-бота**<br><br><br>
 
-<img width="512" height="197" alt="image" src="https://github.com/user-attachments/assets/fbc01e04-6b05-47d9-b2a7-0a947eeef5b8" /><br><br>
-<img width="513" height="158" alt="image" src="https://github.com/user-attachments/assets/c07e79aa-6146-413f-aa1d-7494932caf51" /><br><br>
-<img width="523" height="222" alt="image" src="https://github.com/user-attachments/assets/a4a920d0-fb6e-4a9c-8a45-47cb572ad6f5" /><br>
+<img width="508" height="199" alt="image" src="https://github.com/user-attachments/assets/5f5a3591-016e-481a-bae4-35680ae237a5" /><br><br>
+<img width="505" height="154" alt="image" src="https://github.com/user-attachments/assets/83046b65-a834-4885-9de9-1d4e45dda6b8" /><br><br>
+<img width="401" height="199" alt="image" src="https://github.com/user-attachments/assets/01602845-f7e2-4326-8c52-e0ed39e8ab42" /><br>
 **Добавление ссылки на поиск объявлений**<br><br><br>
 
-<img width="466" height="263" alt="image" src="https://github.com/user-attachments/assets/26838639-98db-46fa-b017-2ed69dd2eb97" /><br><br>
-<img width="505" height="220" alt="image" src="https://github.com/user-attachments/assets/df492ad8-97e9-483a-8f23-73a875dc6d63" /><br>
+<img width="462" height="249" alt="image" src="https://github.com/user-attachments/assets/84964972-1a76-4bbe-bb70-6fc3039d9b4d" /><br><br>
+<img width="431" height="199" alt="image" src="https://github.com/user-attachments/assets/e13a893b-46ca-414e-bf72-3cf73e6ca4a6" /><br>
 **Панель управления объявлениями**<br><br><br>
 
-<img width="387" height="585" alt="image" src="https://github.com/user-attachments/assets/79f0b8dd-e494-4c26-b40b-4e130f298e91" /><br>
+<img width="395" height="581" alt="image" src="https://github.com/user-attachments/assets/54b61df8-faae-4742-823c-0926fcb0a32c" /><br>
 **Отправленное объявление пользователю**
 
 
